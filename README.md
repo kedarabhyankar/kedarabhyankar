@@ -10,7 +10,7 @@
 #### From there, my journey only continued. Encouraged by others and by my own personal wants, I dug through how to self teach myself a few different languages, and started to learn them to the best of my ability.
 
 [![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
-[![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)
 
 
 
