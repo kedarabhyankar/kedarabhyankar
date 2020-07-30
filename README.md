@@ -12,5 +12,6 @@
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
 ![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)
 
+![](https://komarev.com/ghpvc/?username=kedarabhyankar) as of 7/29/2020
 
 
