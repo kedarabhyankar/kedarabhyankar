@@ -9,8 +9,8 @@
 #### With classes around me teaching different Computer Science basics, I picked up learning how to code in Python as one of my first languages. Learning it in elementary school, it's been an intergral starting point in my life as to where I began my Computer Science journey. 
 #### From there, my journey only continued. Encouraged by others and by my own personal wants, I dug through how to self teach myself a few different languages, and started to learn them to the best of my ability.
 
-[![Kedar's GitHub stats](https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
-[![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)
+(https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)
 
 
 
