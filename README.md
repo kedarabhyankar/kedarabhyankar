@@ -29,7 +29,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="75" height="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png" alt="dynamodb" width="110" height="100"/>
-  <img src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" alt="firebae" width="130" height="130"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/500px-Firebase_Logo.svg.png" alt="firebase" width="225" height="63"/>
 </p>
 
 
