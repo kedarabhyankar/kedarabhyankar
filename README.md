@@ -15,15 +15,22 @@
 #### Some of my favorite languages and/or frameworks to develop in are:
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
 </p> 
+
+#### And, some of my favorite frameworks or services to work with are:
+
+<p align="left">
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="75" height="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png" alt="dynamodb" width="110" height="100"/>
+  <img src="https://icon2.cleanpng.com/20180609/ryh/kisspng-firebase-cloud-messaging-google-cloud-messaging-api-as-a-service-5b1bf782ac0ca2.2103995315285594907047.jpg" alt="firebae" width="130" height="130"/>
+</p>
 
 
 
