@@ -12,7 +12,19 @@
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
 ![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&layout=compact&theme=tokyonight&hide=css,html)
 
-![](https://komarev.com/ghpvc/?username=kedarabhyankar) as of 7/29/2020
+#### Some of my favorite languages and/or frameworks to develop in are:
+
+<p align="left">
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/>
+</p> 
+
 
 
 
