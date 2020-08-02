@@ -32,6 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/500px-Firebase_Logo.svg.png" alt="firebase" width="225" height="63"/>
 </p>
 
+I'm actively a Course Developer for Purdue Computer Science courses, with knowledge in building testing frameworks in either JUnit4 or Bash. As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript.
 
 
 
