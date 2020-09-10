@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/500px-Firebase_Logo.svg.png" alt="firebase" width="225" height="63"/>
 </p>
 
-I'm actively a Course Developer for Purdue Computer Science courses, with knowledge in building testing frameworks in either JUnit4 or Bash. As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript.
+I'm actively a Course Developer for Purdue Computer Science courses, with knowledge in building testing frameworks in either JUnit4 or Bash. As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript. I've also worked with Tensorflow learning models and <a href="https://s3-eu-west-1.amazonaws.com/ur-support-site/32554/scriptManual-3.5.4.pdf">URScript</a> to build machine learning models to build food service robots.
 
 
 
