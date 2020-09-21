@@ -21,6 +21,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
+ <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
 </p> 
 
 #### And, some of my favorite frameworks or services to work with are:
