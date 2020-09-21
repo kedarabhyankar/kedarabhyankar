@@ -15,8 +15,8 @@
 #### Some of my favorite languages and/or frameworks to develop in are:
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/></img>
+ <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/></img>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
