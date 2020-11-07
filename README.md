@@ -4,9 +4,11 @@
 
 # Hi, I'm Kedar 🤙🏽
 
-#### I'm a student at Purdue University currently studying Computer Science. I plan to focus in Software Engineering, Systems Programming, and Programming Languages.
+#### I'm a student at Purdue University currently studying Computer Science. I'm focusing in Software Engineering, Systems Programming, and Programming Languages.
+
 #### As a Bay Area native, I grew up surrounded by tech. Just around the corner from where I grew up, I saw Apple grow, and build  Park in my backyard. Surrounded by new opportunities, I knew that tech was a field I wanted to get into from Day 1. I just didn't know how to break into it.
 #### With classes around me teaching different Computer Science basics, I picked up learning how to code in Python as one of my first languages. Learning it in elementary school, it's been an intergral starting point in my life as to where I began my Computer Science journey. 
+
 #### From there, my journey only continued. Encouraged by others and by my own personal wants, I dug through how to self teach myself a few different languages, and started to learn them to the best of my ability. Now, here I am, as an aspiring Software Engineer. If you want to know more about me, check out my website [here](https://kedarabhyankar.me).
 
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kedarabhyankar&show_icons=true&theme=tokyonight)
@@ -33,7 +35,11 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/500px-Firebase_Logo.svg.png" alt="firebase" width="225" height="63"/>
 </p>
 
-I'm actively a Course Developer for Purdue Computer Science courses, with knowledge in building testing frameworks in either JUnit4 or Bash. As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript. I've also worked with Tensorflow learning models and <a href="https://s3-eu-west-1.amazonaws.com/ur-support-site/32554/scriptManual-3.5.4.pdf">URScript</a> to build machine learning models to build food service robots.
+I'm a course coordinator for CS18000 at Purdue University, which is the introductory course that all Computer Science and Data Science majors take when they first come to Purdue. I help hire TAs, develop coursework (more on that later), and hold review sessions for students multiple times throughout the year. 
+
+As stated earlier, I develop coursework for Purdue Computer Science courses. For CS18000, tests are built with testing frameworks in either JUnit or Bash. I also develop coursework for Data Structures and Algorithms (CS 25100), and in this course, the same frameworks are used as in CS18000. 
+
+As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript. I've also worked with Tensorflow learning models and <a href="https://s3-eu-west-1.amazonaws.com/ur-support-site/32554/scriptManual-3.5.4.pdf">URScript</a> to build machine learning models to build food service robots.
 
 
 
