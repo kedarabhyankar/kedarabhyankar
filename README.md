@@ -17,22 +17,23 @@
 #### Some of my favorite languages and/or frameworks to develop in are:
 
 <p align="left">
- <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/></img>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="golang" width="75" height="75"/></img>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="js" width="75" height="75"/></img>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="75" height="75"/></img>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
- <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
- <img src="https://devicon.dev/devicon.git/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="js" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
+ <img src="
 </p> 
 
 #### And, some of my favorite frameworks or services to work with are:
 
 <p align="left">
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="75" height="75"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/redis/redis-original.svg" alt="redis" width="75" height="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/DynamoDB.png/220px-DynamoDB.png" alt="dynamodb" width="110" height="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/500px-Firebase_Logo.svg.png" alt="firebase" width="225" height="63"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="75" height="75"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="75" height="75"/>
+  <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="110" height="100"/>
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="225" height="63"/>
 </p>
 
 I'm a course coordinator for CS18000 at Purdue University, which is the introductory course that all Computer Science and Data Science majors take when they first come to Purdue. I help hire TAs, develop coursework (more on that later), and hold review sessions for students multiple times throughout the year. 
