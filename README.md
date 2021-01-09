@@ -14,7 +14,7 @@
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kedarabhyankar&show_icons=true&theme=tokyonight)
 ![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&theme=tokyonight&langs_count=10&hide=css,html,scss,less)
 
-#### Some of my favorite languages and/or frameworks to develop in are:
+#### Some of my favorite languages to develop in are:
 
 <p align="left">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="75" height="75"/></img>
@@ -24,6 +24,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original-wordmark.svg" alt="scala" width="75" height="75"/></img>
 </p> 
 
 #### And, some of my favorite frameworks or services to work with are:
