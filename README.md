@@ -24,7 +24,6 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="75" height="75"/></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/></img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="75" height="75"/></img>
- <img src="
 </p> 
 
 #### And, some of my favorite frameworks or services to work with are:
@@ -33,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="75" height="75"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="75" height="75"/>
   <img src="https://cdn2.iconfinder.com/data/icons/amazon-aws-stencils/100/Database_copy_DynamoDB-512.png" alt="dynamodb" width="110" height="100"/>
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="225" height="63"/>
+  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="7%" height="7%"/>
 </p>
 
 I'm a course coordinator for CS18000 at Purdue University, which is the introductory course that all Computer Science and Data Science majors take when they first come to Purdue. I help hire TAs, develop coursework (more on that later), and hold review sessions for students multiple times throughout the year. 
