@@ -9,7 +9,7 @@
 #### As a Bay Area native, I grew up surrounded by tech. Just around the corner from where I grew up, I saw Apple grow, and build  Park in my backyard. Surrounded by new opportunities, I knew that tech was a field I wanted to get into from Day 1. I just didn't know how to break into it.
 #### With classes around me teaching different Computer Science basics, I picked up learning how to code in Python as one of my first languages. Learning it in elementary school, it's been an intergral starting point in my life as to where I began my Computer Science journey. 
 
-#### From there, my journey only continued. Encouraged by others and by my own personal wants, I dug through how to self teach myself a few different languages, and started to learn them to the best of my ability. I'm now set to graduate in May 2022, and in June, I'm starting a position as a Software Engineer at ![Twilio](https://www.twilio.com) in San Francisco! If you want to know more about me, check out my website [here](https://kedarabhyankar.me).
+#### From there, my journey only continued. Encouraged by others and by my own personal wants, I dug through how to self teach myself a few different languages, and started to learn them to the best of my ability. I'm now set to graduate in May 2022, and in June, I'm starting a position as a Software Engineer at [Twilio](https://www.twilio.com) in San Francisco! If you want to know more about me, check out my website [here](https://kedarabhyankar.me).
 
 ![Kedar's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=kedarabhyankar&show_icons=true&theme=tokyonight)
 ![Kedar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kedarabhyankar&theme=tokyonight&langs_count=10&hide=css,html,scss,less)
