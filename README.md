@@ -4,7 +4,7 @@
 
 # Hi, I'm Kedar 🤙🏽
 
-#### I'm a student at Purdue University currently studying Computer Science. I'm focusing in Software Engineering, Systems Programming, and Programming Languages.
+#### I'm a Software Engineer at Twilio. I graduated in May 2022 from Purdue University with a degree in Computer Science.
 
 #### As a Bay Area native, I grew up surrounded by tech. Just around the corner from where I grew up, I saw Apple grow, and build  Park in my backyard. Surrounded by new opportunities, I knew that tech was a field I wanted to get into from Day 1. I just didn't know how to break into it.
 #### With classes around me teaching different Computer Science basics, I picked up learning how to code in Python as one of my first languages. Learning it in elementary school, it's been an intergral starting point in my life as to where I began my Computer Science journey. 
