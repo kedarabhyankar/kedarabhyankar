@@ -36,11 +36,5 @@
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" alt="firebase" width="7%" height="7%"/>
 </p>
 
-I'm a course coordinator for CS18000 at Purdue University, which is the introductory course that all Computer Science and Data Science majors take when they first come to Purdue. I help hire TAs, develop coursework (more on that later), and hold review sessions for students multiple times throughout the year. 
-
-As stated earlier, I develop coursework for Purdue Computer Science courses. For CS18000, tests are built with testing frameworks in either JUnit or Bash. I also develop coursework for Data Structures and Algorithms (CS 25100), and in this course, the same frameworks are used as in CS18000. 
-
-As part of past internships and my own free time, I've developed custom OAuth2 modules in Golang, created proxy login systems involving cookie detection in Java + Spring Boot, written secret/salt/pbkdf2 generators using Python and Javascript. I've also worked with Tensorflow learning models and <a href="https://s3-eu-west-1.amazonaws.com/ur-support-site/32554/scriptManual-3.5.4.pdf">URScript</a> to build machine learning models to build food service robots.
-
 
 
